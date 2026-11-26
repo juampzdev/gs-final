@@ -1,0 +1,5 @@
+﻿REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES
+Los requerimientos funcionales describen que debe hacer el sistema. Los no funcionales describen como debe funcionar: rendimiento, seguridad, usabilidad. La diferencia es que los funcionales definen las funciones y los no funcionales definen su calidad y restricciones.
+
+REGLA DE NEGOCIO
+Es una norma o politica de la organizacion que condiciona como se realiza una actividad. Se diferencia de un requerimiento funcional en que la regla viene del negocio y existe aunque no haya sistema, mientras que el requerimiento funcional es lo que el sistema debe hacer.
