@@ -1,0 +1,11 @@
+﻿SCRUM
+
+Scrum es un marco de trabajo agil para desarrollar productos de forma iterativa e incremental. El trabajo se divide en ciclos cortos llamados sprints, y al final de cada uno se entrega una parte funcional del producto.
+
+Roles: Product Owner, que define y prioriza lo que hay que hacer; Scrum Master, que ayuda al equipo a aplicar Scrum y elimina obstaculos; y el Equipo de Desarrollo, que construye el producto.
+
+Artefactos: Product Backlog, que es la lista priorizada de todo lo que se necesita; Sprint Backlog, que son los elementos elegidos para el sprint; e Incremento, que es el resultado terminado del sprint.
+
+Eventos: Sprint, Sprint Planning, Daily Scrum, Sprint Review y Sprint Retrospective.
+
+Sprint: es un periodo fijo de entre una y cuatro semanas. Empieza con la planificacion donde se elige que trabajo se hara. Durante el sprint el equipo se reune todos los dias en la Daily para coordinarse. Al final se muestra el incremento en la Review y en la Retrospective el equipo analiza como mejorar.
