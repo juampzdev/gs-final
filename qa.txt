@@ -1,0 +1,9 @@
+﻿QA Y TESTING
+
+QA es el aseguramiento de la calidad durante todo el desarrollo. Busca prevenir errores mejorando los procesos.
+
+Testing es probar el software para encontrar errores y verificar que cumpla lo pedido. Es una parte de QA.
+
+La diferencia es que QA previene y se enfoca en el proceso, y testing detecta fallas y se enfoca en el producto.
+
+El objetivo de QA es garantizar la calidad y prevenir defectos. El objetivo del testing es encontrar fallas y validar que el sistema funcione como se espera.
